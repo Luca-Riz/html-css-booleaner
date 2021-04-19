@@ -58,15 +58,17 @@ thead {
 /* fine tabella */
 
 /* link others article */
-
-.link-end span {
-    /* display: block; */
-    margin: 3px;
+.link-end div{
+    padding: 8px;
 }
 
 .ph {
     height: 207px;
     background-repeat: no-repeat;
+    color: white;
+    font-weight: 900;
+    font-size: 20px;
+
 }
 
 .monitor {
