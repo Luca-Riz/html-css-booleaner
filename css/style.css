@@ -43,8 +43,12 @@ header img {
 
 /* tabella */
 
-td {
-    width: 33%;
+.tab25 {
+    width: 25%;
+}
+
+.tab50 {
+    width: 50%;
 }
 
 thead {
@@ -55,6 +59,8 @@ thead {
 .bg-tab {
     background-color: #b1e5f2;
 }
+
+
 /* fine tabella */
 
 /* link others article */
