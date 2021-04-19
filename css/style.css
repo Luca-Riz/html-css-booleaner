@@ -59,9 +59,21 @@ thead {
 
 /* link others article */
 
-.link-end img {
-    display: block;
+.link-end span {
+    /* display: block; */
     margin: 3px;
 }
 
+.ph {
+    height: 207px;
+    background-repeat: no-repeat;
+}
+
+.monitor {
+    background-image: url("../img/monitor.jpg");
+}
+
+.graph {
+    background-image: url("../img/graph.jpg");
+}
 /* end link others article */
