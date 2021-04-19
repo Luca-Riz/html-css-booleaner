@@ -40,3 +40,19 @@ header img {
 .bg-yellow {
     background-color: yellow;
 }
+
+/* tabella */
+
+td {
+    width: 33%;
+}
+
+thead {
+    background-color: #20a9e5;
+    color: white;
+}
+
+.bg-tab {
+    background-color: #b1e5f2;
+}
+/* fine tabella */
