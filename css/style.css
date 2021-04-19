@@ -20,3 +20,22 @@ header img {
     height: 100px;
 }
 /* end header */
+
+/* start main article */
+h1 {
+    font-size: 50px;
+}
+
+section span {
+    font-size: 30px;
+}
+
+/* end main article */
+
+.light-grey {
+    color: #808080;
+}
+
+.light-blue {
+    color: #20a9e5;
+}
