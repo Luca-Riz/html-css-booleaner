@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* start header */
+.top {
+    height: 175px;
+    background-image: url("../img/pattern.png");
+    background-repeat: nrepeat-x;
+    background-color: #4ea0ff;
+}
+
+/* barbatrucco finche non usiamo position */
+.space {
+    height: 70px;
+}
+
+header img {
+    height: 100px;
+}
+/* end header */
