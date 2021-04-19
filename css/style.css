@@ -43,6 +43,8 @@ header img {
 
 /* tabella */
 
+table {border: none;}
+
 .tab25 {
     width: 25%;
 }
