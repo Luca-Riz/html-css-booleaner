@@ -1,7 +1,13 @@
-* {
+/* * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+} */
+
+main {
+    margin: 8px;
+    padding: 8px;
+    box-sizing: content-box;
 }
 
 /* start header */
@@ -21,15 +27,6 @@ header img {
 }
 /* end header */
 
-/* start main article */
-h1 {
-    font-size: 50px;
-}
-
-section span {
-    font-size: 30px;
-}
-
 /* end main article */
 
 .light-grey {
@@ -38,4 +35,8 @@ section span {
 
 .light-blue {
     color: #20a9e5;
+}
+
+.bg-yellow {
+    background-color: yellow;
 }
