@@ -43,7 +43,9 @@ header img {
 
 /* tabella */
 
-table {border: none;}
+thead th {
+    text-align: left;
+}
 
 .tab25 {
     width: 25%;
@@ -62,7 +64,6 @@ thead {
     background-color: #b1e5f2;
 }
 
-
 /* fine tabella */
 
 /* link others article */
@@ -76,7 +77,6 @@ thead {
     color: white;
     font-weight: 900;
     font-size: 20px;
-
 }
 
 .monitor {
