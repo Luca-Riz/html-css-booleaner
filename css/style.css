@@ -1,9 +1,3 @@
-/* * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-} */
-
 main {
     margin: 8px;
     padding: 8px;
@@ -42,6 +36,10 @@ header img {
 }
 
 /* tabella */
+
+table {
+    border-spacing: 0;
+}
 
 thead th {
     text-align: left;

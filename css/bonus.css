@@ -4,7 +4,7 @@ main {
     width: 80%;
     margin: auto;    
 }
-
+                      
 /* start header */
 .top {
     height: 175px;
@@ -38,6 +38,10 @@ header img {
 
 /* tabella */
 
+table {
+    border-spacing: 0;
+}
+
 thead th {
     text-align: left;
 }
@@ -58,7 +62,6 @@ thead {
 .bg-tab {
     background-color: #b1e5f2;
 }
-
 /* fine tabella */
 
 /* link others article */
